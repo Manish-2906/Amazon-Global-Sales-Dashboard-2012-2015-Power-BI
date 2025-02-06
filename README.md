@@ -3,9 +3,13 @@ This project focuses on analyzing Amazon's annual sales performance (2012-2015) 
 
 # Key Features:
 📌 Data Import & Cleaning – Processed and cleaned raw sales data for accurate reporting.
+
 📌 Sales Performance Analysis – Identified revenue trends, top-selling products, and regional performance.
+
 📌 Profitability Insights – Analyzed profit margins, high-performing categories, and return rates.
+
 📌 Interactive Visuals – Created engaging charts, KPIs, and filters for deeper exploration.
+
 📌 Data Storytelling – Designed a dashboard for clear, actionable insights.
 
 # Tools & Skills Used:
