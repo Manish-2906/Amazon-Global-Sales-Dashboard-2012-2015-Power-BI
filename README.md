@@ -14,8 +14,11 @@ This project focuses on analyzing Amazon's annual sales performance (2012-2015) 
 
 # Tools & Skills Used:
 ✔ Power BI – Data modeling, DAX calculations, interactive reports
+
 ✔ Data Cleaning – Handled missing values, duplicates, and inconsistencies
+
 ✔ Data Visualization – Line charts, bar charts, maps, and KPI cards
+
 ✔ Business Intelligence – Trend analysis and performance tracking
 
 This project highlights my expertise in data visualization, business intelligence, and storytelling to transform raw data into meaningful insights.
