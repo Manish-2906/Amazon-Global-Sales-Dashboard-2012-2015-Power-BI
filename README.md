@@ -17,7 +17,7 @@ This project focuses on analyzing Amazon's annual sales performance (2012-2015) 
 
 ✔ Data Cleaning – Handled missing values, duplicates, and inconsistencies
 
-✔ Data Visualization – Pie charts, bar charts, maps, and  cards
+✔ Data Visualization – Pie charts, bar charts, maps, Slicer and  cards
 
 ✔ Business Intelligence – Trend analysis and performance tracking
 
